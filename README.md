@@ -10,5 +10,3 @@ I'm a mechanical engineer turned software engineer.
 I'm best reached via [twitter](https://twitter.com/seanphilio). I'm always open to interesting conversations and collaboration(Kaggle, Projects, Papers).
 
 
----
-[![Twitter Follow](https://img.shields.io/twitter/follow/chipro?label=Follow&style=social)](https://twitter.com/seanphilio)
