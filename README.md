@@ -10,7 +10,7 @@ I'm a mechanical engineer turned software engineer.
 **🌱 I’m currently learning**
 
 🙇🏻‍♀️ The fundamental concepts of data analysis, as I am still fairly new to the field!\
-🔧 More advanced uses of Python (Flask),Tableau and SQL  
+🔧 More advanced uses of Python (Flask),PyTorch and SQL  
 
 I'm best reached via [LinkedIn](https://www.linkedin.com/in/shukrullo-nazirjonov/). I'm always open to interesting conversations and collaboration(Kaggle, Projects, Papers).
 
