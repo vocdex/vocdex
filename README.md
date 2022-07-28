@@ -10,6 +10,6 @@
 🙇🏻‍♀️ The fundamental concepts of deep supervised learning(GANs, NLP) as I am fairly new to the field.   
 🔧 More advanced uses of Python (Flask,FastAPI) and PyTorch.
 
-I'm best reached via [LinkedIn](https://www.linkedin.com/in/shukrullo-nazirjonov/). I'm always open to interesting conversations and collaboration(Kaggle, Projects, Papers).
+I'm best reached via [LinkedIn](https://www.linkedin.com/in/shukrullo-nazirjonov/). I'm always open(maybe not at the moment) to interesting conversations and collaboration(Kaggle, Projects, Papers).
 
 
