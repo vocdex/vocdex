@@ -2,7 +2,7 @@
 
 
 - 🎓 I am passionate about Computer Vision,Robotics, NLP.
-- 📚 I'm currently reading [Probabilistic Robotics](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf) and [Machine Learning with PyTorch and Scikit-Learn](https://sebastianraschka.com/blog/2022/ml-pytorch-book.html)
+- 📚 I'm currently reading [Probabilistic Robotics](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf) and [Underactuated Robotics](http://underactuated.csail.mit.edu/)
 - 😅 Sometimes, I turn into a hardcore perfectionist, I set unrealistic goals and SUFFER. 
 
 
