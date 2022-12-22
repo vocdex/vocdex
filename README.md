@@ -6,6 +6,6 @@
 - 😅 Sometimes, I turn into a hardcore perfectionist, I set unrealistic goals and SUFFER. 
 
 
-I'm best reached via [LinkedIn](https://www.linkedin.com/in/shukrullo-nazirjonov/). I'm always open(maybe not at the moment) to interesting conversations and collaboration(Kaggle, Projects, Papers).
+Feel free to contact me here at [LinkedIn](https://www.linkedin.com/in/shukrullo-nazirjonov/)
 
 
