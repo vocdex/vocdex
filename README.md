@@ -6,6 +6,3 @@
 - 😅 Sometimes, I turn into a hardcore perfectionist, I set unrealistic goals and SUFFER. 
 
 
-Feel free to contact me here at [LinkedIn](https://www.linkedin.com/in/shukrullo-nazirjonov/)
-
-
